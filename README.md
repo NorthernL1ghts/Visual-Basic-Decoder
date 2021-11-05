@@ -31,8 +31,3 @@ $ python3 vbe-decoder.py encoded.vbe -o decoded.vbs
 
 ---------------------------------
 
-Credit for this baseline code goes to Didier Stevens, from his original repo.
-https://github.com/DidierStevens/DidierStevensSuite/blob/master/decode-vbe.py
-
-All I have done is merely cleaned the code a bit, made it Python3 friendly,
-and handled support for multiple #@~...#~@ markings. 
