@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
 
 __description__ = "Decode an encoded VBScript, often seen as a .vbe file"
-__author__ = "John Hammond"
+__author__ = "Cameron Smith"
 __date__ = '02/10/2021'
-
-"""
-Credit for this baseline code goes to Didier Stevens, from his original repo.
-https://github.com/DidierStevens/DidierStevensSuite/blob/master/decode-vbe.py
-
-All I have done is merely cleaned the code a bit, made it Python3 friendly,
-and handled support for multiple #@~...#~@ markings. 
-"""
 
 import argparse
 import sys
