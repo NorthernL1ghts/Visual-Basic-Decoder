@@ -11,12 +11,12 @@ This project is useful for situations where data needs to be encoded and decoded
 - **Folder Management**: Automatically creates `../data/` and `../out/` directories if they don't exist.
 
 ## Prerequisites
-- Python 3.x
+- Python 3.12.4
 - Basic understanding of Python file handling
 
 ## Setup & Installation
 1. Clone this repository or download the Python script `VisualBasicExtensionDecoder.py`.
-2. Ensure that you have Python 3.x installed on your machine.
+2. Ensure that you have Python 3.12.4 installed on your machine.
 
 ## Usage
 1. Open the script `VisualBasicExtensionDecoder.py` in a Python environment.
