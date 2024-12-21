@@ -1,0 +1,58 @@
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore documentation folder
+Docs/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+ENV/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs, databases, and other generated files
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore other IDE folders
+.idea/
+.history/
+
+# Ignore test coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Ignore dist and build directories
+dist/
+build/
+*.egg-info/
+
+# Ignore wheel build files
+*.whl
+
+# Ignore pip file
+pip-log.txt
+
+# Ignore local configuration files
+*.local
+
+# Ignore data and output directories
+data/
+out/
